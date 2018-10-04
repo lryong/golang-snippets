@@ -1,1 +1,2 @@
-# Awesome-golang-toolkits
+# Good Golang snippets accumulation
+
